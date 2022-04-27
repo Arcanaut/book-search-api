@@ -1,4 +1,6 @@
 # book-search-api
+
+![Book Search](https://github.com/Arcanaut/book-search-api/blob/main/client/src/assets/thumbnail.png
 Designed and developed by Brendan Ahearn
 
 ## App Description
