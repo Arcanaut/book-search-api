@@ -21,7 +21,7 @@ navigate to the root folder and use the command 'npm install' to automatically i
 ## How to use this application
 When all npm packages have been installed, run the command 'npm start' and then navigate to `http://localhost:3001/` in your browser.
 By clicking on `sign up` you can create account and when you login you can save any books that you find when you type their name in to the search bar.
-Alternatively, go to the Heroku app `Here`
+Alternatively, go to the Heroku app `https://fierce-caverns-28250.herokuapp.com/`
 MIT License
 
 Copyright (c) [2022] [BrendanAhearn]
