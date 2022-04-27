@@ -14,7 +14,7 @@ const SignupForm = () => {
   const [showAlert, setShowAlert] = useState(false);
   //actual mutation being called for use later
   const addUser = useMutation(ADD_USER);
-
+//TODO:alter addUser to be read as a function. May need to add additional function and rename where it is being called
   const handleInputChange = (event) => {
     const { name, value } = event.target;
     setUserFormData({ ...userFormData, [name]: value });
