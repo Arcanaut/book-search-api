@@ -9,6 +9,7 @@ React
 JavaScript,
 Node.js,
 GraphQL
+Mongodb
 
 Git/GitHub
 Heroku
